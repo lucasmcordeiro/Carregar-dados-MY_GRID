@@ -1,0 +1,69 @@
+<xml version="1.0" encoding="utf-8" standalone="yes">
+
+<condutor nome="266,800 27/7" rp="0.385" GMR="0.0217" rd="0.642"/>
+<condutor nome="366,400 27/7" rp="0.306" GMR="0.0244" rd="0.721"/>
+<condutor nome="CAA 4R" rp="1.5835" xp="0.49717" rz="1.76134" xz="2.02142" ampacidade="98"/>
+<condutor nome="MRT" rp="25.54" xp="25.7576" rz="1.1095" xz="3.0863" ampacidade="200"/>
+<condutor nome="Cobre 16R" rp="1.308" xp="0.48022" rz="1.48584" xz="2.00447" ampacidade="121"/>
+<condutor nome="Cobre 25R" rp="0.888" xp="0.46045" rz="1.06584" xz="1.9847" ampacidade="159"/>
+<condutor nome="CAA1/0R" rp="0.6955" xp="0.49843" rz="0.87334" xz="2.02192" ampacidade="167"/>
+<condutor nome="CAA 266R" rp="0.2391" xp="0.37895" rz="0.41693" xz="1.55591" ampacidade="301"/>
+<condutor nome="Cobre 35R" rp="0.5991" xp="0.44795" rz="0.77694" xz="1.97213" ampacidade="196"/>
+<condutor nome="Cobre 50R" rp="0.412" xp="0.43202" rz="0.58984" xz="1.95627" ampacidade="237"/>
+<condutor nome="Cobre 70R" rp="0.3167" xp="0.41669" rz="0.49454" xz="1.94094" ampacidade="274"/>
+<condutor nome="Cobre 95R" rp="0.2213" xp="0.40402" rz="0.39914" xz="1.92821" ampacidade="358"/>
+<condutor nome="CAA 2R" rp="1.0245" xp="0.48904" rz="1.20249" xz="2.01321" ampacidade="116"/>
+<condutor nome="LT CAA 1/0" rp="0.6952" xp="0.49826" rz="0.87336" xz="1.81318" ampacidade="225"/>
+<condutor nome="CAA 2/0R" rp="0.5558" xp="0.48814" rz="0.73364" xz="2.01231" ampacidade="188"/>
+<condutor nome="CAA 4/0R" rp="0.3676" xp="0.45307" rz="0.54544" xz="1.97655" ampacidade="228"/>
+<condutor nome="LT CAA 266" rp="0.2391" xp="0.48358" rz="0.41693" xz="1.69388" ampacidade="404"/>
+<condutor nome="CAA 4U" rp="1.5836" xp="0.49717" rz="1.76134" xz="2.02142" ampacidade="143"/>
+<condutor nome="CAA 2U" rp="1.0246" xp="0.48904" rz="1.20249" xz="2.01321" ampacidade="169"/>
+<condutor nome="CAA 1/0U" rp="0.6955" xp="0.49818" rz="0.87334" xz="2.02192" ampacidade="248"/>
+<condutor nome="CAA 2/0U" rp="0.5558" xp="0.48814" rz="0.73364" xz="2.01231" ampacidade="279"/>
+<condutor nome="CAA 4/0U" rp="0.3676" xp="0.45289" rz="0.54544" xz="1.97655" ampacidade="333"/>
+<condutor nome="CAA 266U" rp="0.2391" xp="0.37888" rz="0.41693" xz="1.55591" ampacidade="444"/>
+<condutor nome="Cobre 4R" rp="0.9427" xp="0.46246" rz="1.12054" xz="1.98663" ampacidade="144"/>
+<condutor nome="Cobre 2R" rp="0.5986" xp="0.44076" rz="0.77644" xz="1.96494" ampacidade="197"/>
+<condutor nome="Cobre 1/0R" rp="0.377" xp="0.4293" rz="0.55484" xz="1.95437" ampacidade="250"/>
+<condutor nome="Cobre 2/0R" rp="0.2987" xp="0.42042" rz="0.47654" xz="1.9446" ampacidade="289"/>
+<condutor nome="Cobre 3/0R" rp="0.2372" xp="0.40388" rz="0.41506" xz="1.92807" ampacidade="338"/>
+<condutor nome="Cobre 4/0R" rp="0.1882" xp="0.39879" rz="0.366" xz="1.92297" ampacidade="388"/>
+<condutor nome="Cobre 4R" rp="0.9427" xp="0.46246" rz="1.12054" xz="1.98663" ampacidade="144"/>
+<condutor nome="Cobre 2R" rp="0.5986" xp="0.44076" rz="0.77644" xz="1.96494" ampacidade="197"/>
+<condutor nome="Cobre 1/0R" rp="0.377" xp="0.4293" rz="0.55484" xz="1.95437" ampacidade="250"/>
+<condutor nome="Cobre 2/0R" rp="0.2987" xp="0.42042" rz="0.47654" xz="1.9446" ampacidade="289"/>
+<condutor nome="Cobre 3/0R" rp="0.2372" xp="0.40388" rz="0.41506" xz="1.92807" ampacidade="338"/>
+<condutor nome="Cobre 4/0R" rp="0.1882" xp="0.39879" rz="0.366" xz="1.98663" ampacidade="144"/>
+<condutor nome="Cobre 6" rp="1.4937" xp="0.47814" rz="0.77694" xz="1.97213" ampacidade="120"/>
+<condutor nome="Cobre 4U" rp="0.9427" xp="0.46246" rz="1.12054" xz="1.98663" ampacidade="190"/>
+<condutor nome="Cobre 2U" rp="0.5986" xp="0.44076" rz="0.77644" xz="1.96494" ampacidade="266"/>
+<condutor nome="Cobre 1/0U" rp="0.377" xp="0.4293" rz="0.55484" xz="1.95437" ampacidade="341"/>
+<condutor nome="Cobre 2/0U" rp="0.2987" xp="0.42042" rz="0.47654" xz="1.9446" ampacidade="396"/>
+<condutor nome="Cobre 3/0U" rp="0.2372" xp="0.40388" rz="0.41506" xz="1.92807" ampacidade="464"/>
+<condutor nome="Cobre 4/0U" rp="0.1882" xp="0.39879" rz="0.366" xz="1.92297" ampacidade="533"/>
+<condutor nome="Cobre 16U" rp="1.308" xp="0.48022" rz="1.48584" xz="2.00447" ampacidade="163"/>
+<condutor nome="Cobre 25U" rp="0.888" xp="0.46045" rz="1.06584" xz="1.9847" ampacidade="215"/>
+<condutor nome="Cobre 35U" rp="0.5991" xp="0.44795" rz="0.77694" xz="1.97213" ampacidade="266"/>
+<condutor nome="Cobre 50U" rp="0.412" xp="0.43202" rz="0.58984" xz="1.95627" ampacidade="324"/>
+<condutor nome="Cobre 70U" rp="0.3167" xp="0.41669" rz="0.49454" xz="1.94094" ampacidade="376"/>
+<condutor nome="Cobre 95U" rp="0.2213" xp="0.40402" rz="0.39914" xz="1.92821" ampacidade="491"/>
+<condutor nome="25A1/S1R" rp="1.5835" xp="0.4725" rz="1.76139" xz="2.02142" ampacidade="100"/>
+<condutor nome="63A1/S1 R" rp="0.6952" xp="0.49826" rz="0.87304" xz="2.02243" ampacidade="170"/>
+<condutor nome="100A1/S1 R" rp="0.3673" xp="0.45289" rz="0.54514" xz="1.97706" ampacidade="230"/>
+<condutor nome="125A1/S1 R" rp="0.2399" xp="0.37895" rz="0.41693" xz="1.90313" ampacidade="300"/>
+<condutor nome="25A1/S1 U" rp="1.5835" xp="0.49725" rz="1.76139" xz="2.02142" ampacidade="145"/>
+<condutor nome="63A1/S1 U" rp="0.6952" xp="0.49818" rz="0.87304" xz="2.02243" ampacidade="250"/>
+<condutor nome="100A1/S1 U" rp="0.3673" xp="0.45281" rz="0.54514" xz="1.97706" ampacidade="335"/>
+<condutor nome="125A1/S1 U" rp="0.2399" xp="0.37895" rz="0.41693" xz="1.90313" ampacidade="440"/>
+<condutor nome="SPC 50" rp="0.641" xp="0.3041" rz="0.81884" xz="2.22198" ampacidade="205"/>
+<condutor nome="SPC 70" rp="0.443" xp="0.29073" rz="0.6208399999999999" xz="2.20861" ampacidade="260"/>
+<condutor nome="SPC 95" rp="0.32" xp="0.27777" rz="0.49784" xz="2.19565" ampacidade="315"/>
+<condutor nome="SPC 120" rp="0.253" xp="0.26816" rz="0.43084" xz="2.18604" ampacidade="365"/>
+<condutor nome="SPC 185" rp="0.164" xp="0.25221" rz="0.34184" xz="2.17009" ampacidade="480"/>
+<condutor nome="SPC 240" rp="0.125" xp="0.24085" rz="0.30284" xz="2.15874" ampacidade="572"/>
+<condutor nome="40-A3-7 U" rp="1.3609" xp="0.42922" rz="1.53874" xz="1.60618" ampacidade="165"/>
+<condutor nome="63-A3-7 U" rp="0.5386" xp="0.4124" rz="0.7166" xz="1.93658" ampacidade="270"/>
+<condutor nome="100-A3-19 U" rp="0.2275" xp="0.39192" rz="0.40542" xz="1.91611" ampacidade="380"/>
+<condutor nome="160-A3-19 U" rp="0.1022" xp="0.37627" rz="0.28008" xz="1.90045" ampacidade="490"/>
+</xml>
